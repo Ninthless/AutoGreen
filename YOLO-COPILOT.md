@@ -1,0 +1,1 @@
+This file records a merge with Copilot requested as reviewer, then merged immediately without waiting for approval.
